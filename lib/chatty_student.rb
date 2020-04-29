@@ -15,7 +15,7 @@ class ChattyStudent < Student
     super
     super
     super
-    superx
+    super
   end
   
 end
